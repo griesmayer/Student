@@ -4,6 +4,8 @@ public class Student
     private int     alter;
     private boolean matura;
     
+    private int     preis;
+    
     public String getName()
     {
         return name;
